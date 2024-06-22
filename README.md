@@ -9,7 +9,7 @@ About me:
 
 Let’s build something amazing together! 🚀
 
-<img align="left" width="47% ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent) />
+<img align="left" width="47% https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent />
 
 <img align="left" width="47% [![GitHub Streak](https://streak-stats.demolab.com/?user=adesoyejnr)](https://git.io/streak-stats) />
 
