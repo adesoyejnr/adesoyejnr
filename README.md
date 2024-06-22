@@ -9,6 +9,14 @@ About me:
 
 Let’s build something amazing together! 🚀
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com/?user=adesoyejnr)](https://git.io/streak-stats)
+<img align="left" width="47% ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent) />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adesoyejnr&hide_progress=true)
+<img align="left" width="47% [![GitHub Streak](https://streak-stats.demolab.com/?user=adesoyejnr)](https://git.io/streak-stats) />
+
+<img align="left" width="47% ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adesoyejnr&hide_progress=true) />
+
+<img align="left" width="47% />
+
+ 
+
+
