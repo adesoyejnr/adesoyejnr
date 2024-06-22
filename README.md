@@ -11,7 +11,7 @@ Let’s build something amazing together! 🚀
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent" />
 
-<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=adesoyejnr)](https://git.io/streak-stats)" />
+<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=adesoyejnr" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesoyejnr&hide_progress=true />
 
