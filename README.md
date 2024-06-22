@@ -2,7 +2,7 @@
 
 I'm a Product Designer 🎨 and Frontend Developer 💻 with a passion for creating sleek and intuitive digital products 🧑🏼‍🎨.
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=false&theme=radical)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=radical)
 
 
 About me:
