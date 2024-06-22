@@ -11,4 +11,4 @@ Let’s build something amazing together! 🚀
 
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=radical)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adesoyejnr&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adesoyejnr&hide_progress=true)
