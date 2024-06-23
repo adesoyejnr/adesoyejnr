@@ -10,6 +10,7 @@ About me:
 Let’s build something amazing together! 🚀
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent"/>
+ <br>
  <img src="https://streak-stats.demolab.com/?user=adesoyejnr"/>
 
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
