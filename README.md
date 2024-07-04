@@ -9,7 +9,7 @@ About me:
 
 Let’s build something amazing together! 🚀
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent"/>
+<!--- <img align="left" src="https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent"/> --->
 
  <img src="https://streak-stats.demolab.com/?user=adesoyejnr"/>
 
