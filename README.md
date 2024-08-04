@@ -3,7 +3,7 @@
 I'm a Product Designer 🎨 and Frontend Developer 💻 with a passion for creating sleek and intuitive digital products 🧑🏼‍🎨.
 
 About me:
-- 👯 I'm open to opportunities, projects and technical challenges.
+- 👯 I'm open to opportunities, projects and lots of technical challenges.
 - 💬 Ask me about technology, thats my favourite topic 😇
 - 🛜 When I’m not coding, you’ll find me exploring designs, watching funny videos online & movie, or leveling up my skills.
 
