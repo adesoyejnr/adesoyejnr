@@ -7,7 +7,7 @@ About me:
 - 💬 Ask me about technology, thats my favourite topic 😇
 - 🛜 When I’m not coding, you’ll find me exploring designs, watching funny videos online & movie, or leveling up my skills.
 
-Let’s build something amazing together! 💪🚀
+Let’s build something amazing together! 💪🚀💪🚀
 
 <!--- <img align="left" src="https://github-readme-stats.vercel.app/api?username=adesoyejnr&show_icons=true&theme=transparent"/> --->
 
