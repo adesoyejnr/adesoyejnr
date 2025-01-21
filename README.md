@@ -1,4 +1,4 @@
-# Hi there 👋👋
+# Hi there 👋👋👋
 
 I'm a Product Designer 🎨 and Frontend Developer 💻 with a passion for creating sleek and intuitive digital products 🧑🏼‍🎨. 
 
