@@ -1,6 +1,6 @@
 # Hi there 👋👋👋
 
-I'm a Product Designer 🎨 and Frontend Developer 💻 with a passion for creating sleek and intuitive digital products 🧑🏼‍🎨. 
+I'm a Product Designer 🎨 with a passion for creating sleek and intuitive digital products 🧑🏼‍🎨. 
 
 About me: 
 - 👯 I'm open to opportunities, projects and lots of technical challenges to solve...
